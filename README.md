@@ -1,2 +1,0 @@
-# StellarRose.github.io
-ProjectWebsite
